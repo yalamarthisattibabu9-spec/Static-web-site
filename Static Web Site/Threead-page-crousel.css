@@ -1,0 +1,42 @@
+.tajmahal-bg-container {
+    background-color: white;
+    height: 100vh;
+    background-size: cover;
+}
+.tajmahal-crousel-indicators-sizzing {
+    height: 40vh;
+    width: 900px;
+    padding: 8px;
+    border-color: rgb(22, 207, 47);
+    border-width: 15px;
+    border-radius: 5px;
+}
+.tajmahal-dicrioption-thread-page {
+    background-color: antiquewhite;
+    margin: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+.tajmahal-dicrioption-thread-page-heading {
+    color: rgb(69, 9, 178);
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+    
+}
+.tajmahal-dicrioption-thread-page-discrtiption {
+    color: black;
+    font-size: 15px;
+    
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+}
+
+.ul-sizing {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: 0px;
+   text-align: center;
+    color: black;
+}

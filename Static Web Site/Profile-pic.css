@@ -1,0 +1,68 @@
+.background-section-resume {
+    background-color: white;
+    background-size: cover;
+    height: 100vh;
+    padding: 30px;
+    margin: 5px;
+    
+}
+.profile-section {
+    height: auto;
+    text-align: center;
+}
+.profile-img-section {
+    height: 40vh;
+    width: 30vw;
+
+}
+.profile-heading {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(159, 131, 7);
+    font-size: 26px;
+    font-weight: bold;
+    
+}
+.profile-discrioption {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(159, 131, 7);
+    font-size: 16px;
+    font-weight:normal;
+}
+.Award-secton {
+    background-color: rgba(239, 143, 17, 0.488);
+    border-radius: 10px;
+    padding: 13px;
+    margin: 5px;
+}
+.Award-heading {
+    color: rgb(18, 58, 233);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+.award-orderlist {
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.bio-secton {
+    background-color: rgba(239, 143, 17, 0.488);
+    border-radius: 10px;
+    padding: 13px;
+}
+.Bio-discription {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight:normal;
+    padding: 6px;
+}
+.image-attribute {
+    height: 80px;
+    width: 80px;
+    border-radius: 12px;
+}
+.image-attribute-insta {
+    height: 55px;
+    width: 55px;
+    border-radius: 12px;   
+}

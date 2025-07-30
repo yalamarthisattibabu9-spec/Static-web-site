@@ -1,0 +1,52 @@
+.background-card-container {
+    background-color:white;
+    background-size: cover;
+    height: 100vh;
+    padding: 7px;
+    
+}
+.favourite-place-heading-section {
+    color: rgb(115, 25, 180);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 38;
+    font-weight: bold;
+    text-align: center;
+
+}
+.tajmahal-section {
+    background-color:#eeb84d;
+    border-radius: 5px;
+    padding: 8px;
+    margin: 5px;
+    
+}
+.tajmahal-heading {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(56, 10, 149);
+    
+}
+.tajmahal-discrioption {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    color: black;
+    font-weight: bold;
+}
+.tajmahal-img {
+    height: 110px;
+    width: 150px;
+    border-radius: 6px;
+}
+.button-styling {
+    border-radius: 8px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(230, 239, 67);
+    height: 60px;
+    width: 100px;
+    padding: 20px;
+    margin: 5px;
+    background-color: rgb(12, 97, 6);
+}
+

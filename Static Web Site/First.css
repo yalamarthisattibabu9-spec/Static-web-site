@@ -1,0 +1,75 @@
+.background-container {
+    background-image: url("https://img.freepik.com/free-photo/trees-drawn_1160-909.jpg?t=st=1718972100~exp=1718975700~hmac=926dee316edf7835025a5c613c7995468ab398ce6b4690152d47eb91079e9cf3&w=1380");
+    background-size: cover;
+    height: 100vh;
+    padding: 8px;
+}
+.button-container {
+    background-color: rgb(201, 240, 240);
+    text-align: center;
+    border-radius: 5px;
+    padding: 15px;
+}
+.tourism-heading {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 33px;
+    color: rgb(7, 55, 97);
+    font-weight: bold;
+
+}
+.tourism-discription {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: rgb(14, 162, 216);
+    font-weight: bold;
+
+}
+.button-styling {
+    border-radius: 6px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.background-card-container {
+    background-color: rgb(73, 147, 72);
+    background-size: cover;
+    height: 100vh;
+    padding: 7px;
+    
+}
+.favourite-place-heading-section {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 38;
+    font-weight: bold;
+    text-align: center;
+
+}
+.tajmahal-section {
+    background-color: aliceblue;
+    border-radius: 5px;
+    padding: 8px;
+    margin: 5px;
+    
+}
+.tajmahal-heading {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: blueviolet;
+    
+}
+.tajmahal-discrioption {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    color: rgb(34, 5, 62);
+}
+.tajmahal-img {
+    height: 110px;
+    width: 150px;
+    border-radius: 6px;
+}
+.button-styling-2 {
+    border-radius: 6px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
